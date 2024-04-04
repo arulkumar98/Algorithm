@@ -1,32 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8bd24a-1553-46f0-9131-2365008fde96" name="Changes" comment="" />
+    <list default="true" id="5a8bd24a-1553-46f0-9131-2365008fde96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/FindIthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/FindTheNonRepectingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/PowerofTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/RangeXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SetIthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SignBitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/UniqueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/CycleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/CycleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/problem/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/problem/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/problem/ReturnDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/problem/ReturnDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/SubSetDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/SubSetDuplicateREC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetDuplicateREC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/SubSetItration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetItration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dImENCYPoVJ4epu60Q3P6DV5tl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.CountSort.executor": "Run",
+    "Application.CycleSort.executor": "Run",
+    "Application.FindIthBit.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindTheNonRepectingNumber.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.MagicNumber.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.PowerofTwo.executor": "Run",
+    "Application.PrimeOrNot.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RadixSort.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.Solution.executor": "Debug",
+    "Application.Sorting.RadixSort.executor": "Run",
+    "Application.SubSet.executor": "Run",
+    "Application.SubSetItration.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.UniqueArray.executor": "Run",
+    "Application.findTheNonRepectingNumber.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PowerofTwo">
+    <configuration name="FindIthBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwiseoperators.FindIthBit" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitwiseoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheNonRepectingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwiseoperators.FindTheNonRepectingNumber" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitwiseoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwiseoperators.MagicNumber" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitwiseoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerofTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwiseoperators.PowerofTwo" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitwiseoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PowerofTwo" />
+        <item itemvalue="Application.MagicNumber" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FindTheNonRepectingNumber" />
+        <item itemvalue="Application.FindIthBit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-249ae16d76d6-478b1d29" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,5 +188,61 @@
       <updated>1709703854823</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sorting/InsertionSort.java</url>
+          <line>11</line>
+          <properties class="sorting.InsertionSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sorting/CycleSort.java</url>
+          <line>13</line>
+          <properties class="sorting.CycleSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sorting/problem/FindMissingNumber.java</url>
+          <line>10</line>
+          <properties class="sorting.problem.FindMissingNumber" method="missingNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sorting/QuickSort.java</url>
+          <line>11</line>
+          <properties class="sorting.QuickSort" method="quickSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sorting/CountSort.java</url>
+          <line>11</line>
+          <properties class="sorting.CountSort" method="countSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/QuickSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

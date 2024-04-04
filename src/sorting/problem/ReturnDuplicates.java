@@ -1,6 +1,9 @@
-package Sorting.problem;
+package sorting.problem;
 
-public class FindAllDublicate {
+import java.util.ArrayList;
+import java.util.List;
+
+public class ReturnDuplicates {
     public List<Integer> findDuplicates(int[] arr) {
 
         int i = 0;
