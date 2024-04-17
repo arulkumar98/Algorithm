@@ -1,4 +1,4 @@
-package sorting;
+package sorting.algorithm;
 
 public class Swap {
 

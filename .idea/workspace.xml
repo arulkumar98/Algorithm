@@ -4,40 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8bd24a-1553-46f0-9131-2365008fde96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/FindIthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/FindTheNonRepectingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/MagicNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/PowerofTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/RangeXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SetBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SetIthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/SignBitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitwiseoperators/UniqueArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5a8bd24a-1553-46f0-9131-2365008fde96" name="Changes" comment="m">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/PhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/CountSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/CycleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/CycleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problem/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/problem/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problem/ReturnDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/problem/ReturnDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/SubSetDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/SubSetDuplicateREC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetDuplicateREC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subset/SubSetItration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subset/SubSetItration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/CycleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/CycleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/algorithm/Swap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +32,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arulkumar98"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arulkumar98/Algorithm.git",
+    "accountId": "2d283d93-e743-4e9c-86c6-c63c01e8aa4b"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -97,7 +91,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PowerofTwo">
@@ -170,14 +165,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-corretto-20.0.2.1-249ae16d76d6-478b1d29" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -187,24 +174,37 @@
       <option name="presentableId" value="Default" />
       <updated>1709703854823</updated>
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <option name="closed" value="true" />
+      <created>1712217586321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712217586321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/sorting/InsertionSort.java</url>
+          <url>file://$PROJECT_DIR$/src/sorting/algorithm/InsertionSort.java</url>
           <line>11</line>
-          <properties class="sorting.InsertionSort" method="sort">
+          <properties class="sorting.algorithm.InsertionSort" method="sort">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/sorting/CycleSort.java</url>
+          <url>file://$PROJECT_DIR$/src/sorting/algorithm/CycleSort.java</url>
           <line>13</line>
-          <properties class="sorting.CycleSort" method="sort">
+          <properties class="sorting.algorithm.CycleSort" method="sort">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -220,25 +220,25 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/sorting/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/sorting/algorithm/QuickSort.java</url>
           <line>11</line>
-          <properties class="sorting.QuickSort" method="quickSort">
+          <properties class="sorting.algorithm.QuickSort" method="quickSort">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/sorting/CountSort.java</url>
+          <url>file://$PROJECT_DIR$/src/sorting/algorithm/CountSort.java</url>
           <line>11</line>
-          <properties class="sorting.CountSort" method="countSort">
+          <properties class="sorting.algorithm.CountSort" method="countSort">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sorting/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/sorting/algorithm/QuickSort.java</url>
           <line>4</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
